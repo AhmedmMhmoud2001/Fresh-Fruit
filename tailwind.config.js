@@ -23,6 +23,7 @@ export default {
           "2xl": "6rem",
         },
       },
+      
     },
   },
   plugins: [],
